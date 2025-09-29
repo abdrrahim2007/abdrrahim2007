@@ -36,7 +36,7 @@
 <td width="50%" valign="top"> 
 <h3 align="center">English Learning Platform</h3> 
 <br /> 
-<a target="_blank" href="#"> <!-- Add Project Link Here --> 
+<a target="_blank" href="https://github.com/abdrrahim2007/English"> 
 <img src="https://placehold.co/400x200/2d3748/ffffff?text=English+Learning+Platform" alt="English Learning Platform" width="100%"> 
 </a> 
 <br /> 
